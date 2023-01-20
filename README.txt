@@ -1,3 +1,3 @@
 Introducimos información en el archivo.
-Segumos con el desarrollo en una nueva rama.
+Realizamos cambios en la nueva funcionalidad.
 Nos preparamos para integrar los cambios en la rama master.
